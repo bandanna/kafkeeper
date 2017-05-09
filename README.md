@@ -1,3 +1,7 @@
+## Let's start ...
+1) Make sure you got Docker installed.
+2) just ... ```./run``` it!
+
 ## Kafka commands
 
 * Create topic
